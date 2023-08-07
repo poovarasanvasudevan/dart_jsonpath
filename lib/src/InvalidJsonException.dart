@@ -1,0 +1,1 @@
+class InvalidJsonException implements Exception {}
